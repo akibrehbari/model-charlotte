@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://redcharlotte.com'),
+  metadataBase: new URL('https://redcharlottte.com'),
   title: "Luna Velvet",
   description: "The official page of Luna Velvet.",
 };
